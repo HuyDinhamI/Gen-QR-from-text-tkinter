@@ -1,3 +1,3 @@
 "This is my code, you can gen qr code from text then scan qr code you have to text"
 
-Code from lab assigment CPV301 in class.
+Code from lab assigment in FPT.
