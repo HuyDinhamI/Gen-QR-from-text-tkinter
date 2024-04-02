@@ -1,0 +1,1 @@
+"This is my code, you can gen qr code from text then scan qr code you have to text"
